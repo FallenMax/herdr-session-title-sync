@@ -1,0 +1,10 @@
+{
+  "name": "herdr-session-title-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "bun build src/sidebar.ts src/codex-hook.ts src/claude-hook.ts src/pi-extension.ts src/workspace-refresh.ts scripts/install.ts --outdir tmp/build --target bun",
+    "test": "bun test",
+    "install": "bun run scripts/install.ts"
+  }
+}
