@@ -1,0 +1,79 @@
+src/codex-hook.ts
+  s_6ddc6e18553c9a::t_024baa20469890 1-3,11,31,35-44
+  s_6ddc6e18553c9a::t_90f552d8f611ba 5,7-10,12-25,29-30,32-34
+  s_ee2c1f20ebd0a6::t_e19f8665138510 26-28
+src/sidebar.ts
+  s_6ddc6e18553c9a::t_1446fecc05cce5 1-4,6,10-11,13,27,29,32-48,51,55-57,59-67,69,72-84,87-89,91-95,100,102,182-184,192-195,220-238,253-258,260,262,265-295,298
+  s_6ddc6e18553c9a::t_92d9bb6c9aa19a 103-109,113-115
+  s_6ddc6e18553c9a::t_a1ece96a9e9ac7 186-187,189-191
+  s_6ddc6e18553c9a::t_319de51341d97b 111,188,263-264,296
+  s_ee2c1f20ebd0a6::t_c9e9da0c332ef4 147-148,165-168,177
+  s_6ddc6e18553c9a::t_3011734be47259 14-15,17-19,198-217,259,299-306
+  s_ee2c1f20ebd0a6::t_9627c4bf3f554b 170-173
+  s_6ddc6e18553c9a::t_07910392513293 30,110,309,312
+  s_6ddc6e18553c9a::t_9555b1cbe834d3 8,101,185,249-252
+  s_6ddc6e18553c9a::t_5abb64bef3a337 7,90,96-99,261
+  s_ee2c1f20ebd0a6::t_17f8646dbd99e0 169
+  s_6ddc6e18553c9a::t_4d80735d9718a2 310-311
+  s_ee2c1f20ebd0a6::t_78681f8c368965 28
+  s_ee2c1f20ebd0a6::t_98000cd304adc3 16,22-24,112,118-144,149-164,174-176,178-179,239-248
+scripts/install.ts
+  s_ee2c1f20ebd0a6::t_c40bd3c31f359a 5,211,214,223
+  s_ee2c1f20ebd0a6::t_4ee44198506671 15,230-234
+  s_ee2c1f20ebd0a6::t_78d8282c853013 16,195-200
+  s_6ddc6e18553c9a::t_7f872aed4d1eb8 161-163
+  s_6ddc6e18553c9a::t_ea0e0d5ddd21a4 49,51-60,141-155,160,165-166,168,219
+  s_6ddc6e18553c9a::t_19587889cc1a98 174
+  s_6ddc6e18553c9a::t_fc2ee11baafbd7 156-159
+  s_6ddc6e18553c9a::t_6766644b814acc 1-4,6,11-13,18-22,25-30,34,37-38,61-77,80-85,132,134-135,137-140,169-173,175-194,201-210,212-213,215-217,220-222,224-226,229
+  s_6ddc6e18553c9a::t_d908dd5ca55cb6 8,31-33,39-45
+  s_ee2c1f20ebd0a6::t_512ceaa1c15789 86-131,218
+package.json
+  s_ee2c1f20ebd0a6::t_b4e3c2b08a0342 6
+  s_6ddc6e18553c9a::t_baee30ce126b95 8
+src/pi-extension.ts
+  s_6ddc6e18553c9a::t_319d49ffc7f934 14,46,48-57,63,73
+  s_6ddc6e18553c9a::t_78ce5804816376 12,15,25-29,32-45,96,107,114,122
+  s_6ddc6e18553c9a::t_024baa20469890 1-3,5-11,13,16-24,30-31,47,58-62,64-72,74-95,97,99-106,108-113,115-121,123
+herdr-plugin.toml
+  s_ee2c1f20ebd0a6::t_b4e3c2b08a0342 1-5,9-10,13-14,17-18,21-22,25-26
+README.md
+  s_ee2c1f20ebd0a6::t_c45069c3450e6d 1,3,5,7-15,18,23-27,29,32,35-49,51
+test/sidebar.test.ts
+  s_6ddc6e18553c9a::t_b211fad71d9782 2-3,5,74-96,98-102,105-109
+  s_6ddc6e18553c9a::t_25be4c41e6ca80 1,9-13,15-18,20-22,24-41,62
+  s_6ddc6e18553c9a::t_1b168f40e7ce5a 6
+  s_6ddc6e18553c9a::t_457b3bac09d153 7,42,45-61
+  s_ee2c1f20ebd0a6::t_e19f8665138510 63-71
+  s_ee2c1f20ebd0a6::t_97c188d496cd74 103
+src/workspace-refresh.ts
+  s_ee2c1f20ebd0a6::t_b4e3c2b08a0342 2-5,7-10
+  s_ee2c1f20ebd0a6::t_c9e9da0c332ef4 1,6
+src/claude-hook.ts
+  s_6ddc6e18553c9a::t_024baa20469890 1-4,6-11,14-33
+  s_6ddc6e18553c9a::t_fd2169e013e820 5,12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "cbebed9bffacea033eb6c03ba1d37e04542f93ba",
+  "prompts": {},
+  "sessions": {
+    "s_6ddc6e18553c9a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a147a8-3fce-7840-893a-c88dc7c7dbe7",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "FallenMax <FallenMax@gmail.com>"
+    },
+    "s_ee2c1f20ebd0a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f652a-9e76-7a30-8b24-9507584cc344",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "FallenMax <FallenMax@gmail.com>"
+    }
+  }
+}
