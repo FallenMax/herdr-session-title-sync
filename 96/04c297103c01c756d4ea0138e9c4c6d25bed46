@@ -1,0 +1,62 @@
+src/claude-hook.ts
+  s_ee2c1f20ebd0a6::t_57c10f8d8cd1d0 1-8,30-36
+  s_ee2c1f20ebd0a6::t_7e2fc5f3a3e929 12-26
+  s_ee2c1f20ebd0a6::t_0f7143f97301ac 27-29
+  s_ee2c1f20ebd0a6::t_e3c7d06e97c9b5 9-11
+scripts/install.ts
+  s_ee2c1f20ebd0a6::t_edc75e42ede891 196-198,208-209
+  s_ee2c1f20ebd0a6::t_818bbec0561ab2 236
+  s_ee2c1f20ebd0a6::t_e4d64f4fcb8608 24-26,32-34
+  s_ee2c1f20ebd0a6::t_59c5adf10df9b2 220
+  s_ee2c1f20ebd0a6::t_ad07fd669bcd3e 138-140,146-148
+  s_ee2c1f20ebd0a6::t_c962c97c43af4e 60-62,87,89
+  s_ee2c1f20ebd0a6::t_453f6b3f1eded7 20-22
+  s_ee2c1f20ebd0a6::t_1b42e11b0281c7 36-38,44-46
+  s_ee2c1f20ebd0a6::t_5d6bda03a6be9b 1-4,6-14,16-19,27-31,39-43,51-55,63-80,96-124,132-133,143-145,155-174,182-191,201-206,230-234,239,242-246,248-252
+  s_ee2c1f20ebd0a6::t_7ccbee8fd61cb4 23,35,47,59,91,128,137,149,178,195,210,221-223,226
+  s_ee2c1f20ebd0a6::t_cb1e791851b1f1 179-181,192-194
+  s_ee2c1f20ebd0a6::t_009f803ca637f2 227-229
+  s_ee2c1f20ebd0a6::t_bb24d2d93137ca 5,15,81-86,88,90,92,141-142,153-154,199-200,207,211-219,224-225,235,237-238,240-241,247
+  s_ee2c1f20ebd0a6::t_c47d9be83311a8 48-50,56-58
+  s_ee2c1f20ebd0a6::t_31d21defe1b4b5 93-95,125-127
+  s_ee2c1f20ebd0a6::t_15ec09fdd8c9d7 129-131,134-136
+  s_ee2c1f20ebd0a6::t_cd2f508f60ba8c 150-152,175-177
+DEVELOPMENT.md
+  s_ee2c1f20ebd0a6::t_47c06b5a8a1be7 80
+  s_ee2c1f20ebd0a6::t_3ea991c4f1ce6a 1-79,81-107
+.gitignore
+  s_ee2c1f20ebd0a6::t_21812c2eaa2526 4
+  s_ee2c1f20ebd0a6::t_5161f5b253f0f4 1-3
+herdr-plugin.toml
+  s_ee2c1f20ebd0a6::t_aa16d865b50e5a 3-5
+  s_ee2c1f20ebd0a6::t_bb24d2d93137ca 8-10
+  s_ee2c1f20ebd0a6::t_79fd7f8925d6c8 1-2
+  s_ee2c1f20ebd0a6::t_132852c8b95bdb 6-7
+  s_ee2c1f20ebd0a6::t_6ae45a611b19ae 11-13
+  s_ee2c1f20ebd0a6::t_d392ade65a48b4 14-29
+README.md
+  s_ee2c1f20ebd0a6::t_9ca5d3e47dae54 28-30
+  s_ee2c1f20ebd0a6::t_1b3bd66bcdc200 50-52
+  s_ee2c1f20ebd0a6::t_aa16d865b50e5a 17-26,54-55
+  s_ee2c1f20ebd0a6::t_bb24d2d93137ca 31,49
+  s_ee2c1f20ebd0a6::t_ae37f6f278c17b 32-48
+  s_ee2c1f20ebd0a6::t_6ed5e3575f01ee 1-16,27,53,56-67
+AGENTS.md
+  s_ee2c1f20ebd0a6::t_3ea991c4f1ce6a 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "9604c297103c01c756d4ea0138e9c4c6d25bed46",
+  "prompts": {},
+  "sessions": {
+    "s_ee2c1f20ebd0a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f652a-9e76-7a30-8b24-9507584cc344",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": null
+    }
+  }
+}
